@@ -44,3 +44,8 @@ A responsive weather application built using HTML, CSS, and Vanilla JavaScript t
 
 🌍 Live Demo
 https://saurabh-js-weather.netlify.app/
+
+👨‍💻 Author
+Saurabh Singh B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+
+⭐ If you like this project, consider giving it a star!
