@@ -43,7 +43,7 @@ A responsive weather application built using HTML, CSS, and Vanilla JavaScript t
 
 
 🌍 Live Demo
-https://saurabh54e.github.io/js-weather-app/
+https://saurabh54e.github.io/js-day01-weather-app/
 
 ## Author 
 Saurabh Singh.
